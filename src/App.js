@@ -25,6 +25,7 @@ class App extends React.Component {
     }
 
     render() {
+        // eslint-disable-next-line
         const { advice } = this.state;
 
         return (
